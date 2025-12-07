@@ -19,4 +19,5 @@ async def ping(ctx):
 async def test(ctx):
     await ctx.send("Działa 24/7 na Railway! 🚀")
 
-bot.run("MTM5ODAyOTgxNzk5NTMyOTU5Nw.GRlwdg.ZSfF4kphGRI1MQqH-TUr1vmrK7lojPtEa3iOkA")   # ← tutaj wklejasz nowy token (za chwilę bezpiecznie)
+
+bot.run("MTM5ODAyOTgxNzk5NTMyOTU5Nw.GO-CLQ.n_bYmTcCrL4Ckpesw4DxHntcj_0W1daHaIC_OU")   # ← tutaj wklejasz nowy token (za chwilę bezpiecznie)
